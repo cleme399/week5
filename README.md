@@ -21,10 +21,12 @@
         * if in a group, have one or two people agree to **take notes** for the rest of the planning session
     + start talking about (**and recording!**) what you want to include in the project
       + Start big and try to break down each big chunk (business requirements) into smaller pieces (functional requirements). These can and will be somewhat arbitrary, but the process of thinking about what needs to get done is helpful in itself). For more on this process, see [this article](http://smallbusiness.chron.com/functional-requirements-vs-business-requirements-65938.html). Or think of it as establishing goals and then defining discrete tasks that will help you achieve that goal.
-      + What data do you need? (again, **record** it as you discuss it)                           
+      + What data do you need? (again, **record** it as you discuss it)
+      + What are the possible options for technology? Think about front-end (presentation/website/web map and back-end (data hosting/geoprocessing) 
     + If in a group, start talking about **who wants to do what**
         * Doesn't necessarily need to be about each person doing what they have the most experience with, although that can help.
         * If a team member is excited about working on some aspect of the project, they should definitely be involved with that aspect!
+        * Think about setting up a weekly meeting to see who's working on what and what to work on over the course of the next week. Try and find a time that works for everyone. Even a half hour can be enough!
 
 ## For next time (for group *and* individual projects)
 - Assemble a list of data that you will need to acquire
